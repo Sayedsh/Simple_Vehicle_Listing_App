@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Audi S6",
+        "type": "car",
+        "price": "85,395",
+        "image": "https://btgarage.com/wp-content/uploads/2019/04/tv1qvd05q30jtdiymp8h.jpg"
+    },
+    {
+        "name": "Genesis GV70",
+        "type": "car",
+        "price": "56,100",
+        "image": "https://www.hdcarwallpapers.com/thumbs/2024/genesis_gv70_2024_8k-t2.jpg"
+    },
+    {
+        "name": "Toyota Supra MK5",
+        "type": "car",
+        "price": "60,535",
+        "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/vehicles/2025/grsupra/gallery/SUP_MY24_0045_V001.png?wid=2000&fmt=jpg&fit=crop"
+    },
+    {
+        "name": "Nissan GTR",
+        "type": "car",
+        "price": "121,090",
+        "image": "https://wallpaperaccess.com/full/690713.jpg"
+    },
+    {
+        "name": "Ferrari 488",
+        "type": "car",
+        "price": "258,900",
+        "image": "https://btgarage.com/wp-content/uploads/2019/04/ferrari-488-gtb-4096x2304-4k-7713.jpg"
+    },
+    {
+        "name": "Mustang GT",
+        "type": "car",
+        "price": "69,870",
+        "image": "https://21motoring.com/wp-content/uploads/2022/09/2024-ford-mustang-gt-03.jpg"
+    },
+    {
+        "name": "McLaren 570s",
+        "type": "car",
+        "price": "211,300",
+        "image": "https://btgarage.com/wp-content/uploads/2019/04/mclaren_570s_spider_2018_4k.jpg"
+    },
+    {
+        "name": "Mercedes S63 AMG",
+        "type": "car",
+        "price": "187,350",
+        "image": "https://btgarage.com/wp-content/uploads/2019/04/2010-Mercedes-Benz-S63-AMG-widescreen-02.jpg"
+    },
+    {
+        "name": "Porsche 991",
+        "type": "car",
+        "price": "170,893",
+        "image": "https://btgarage.com/wp-content/uploads/2019/04/porsche-911-carrera-wallpapers-32497-4995558.jpg"
+    }
+]
